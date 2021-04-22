@@ -1,0 +1,40 @@
+.centrado{
+ text-align: center;
+}
+.titulo{
+    margin-top: 5%;
+}
+
+.imgpokemon{
+    margin-top: -50px;;
+    width: 50%;
+}
+.estadisticas{
+    font-size:1rem;
+}
+
+/*Estilos ataques y defensa*/
+.ataque{
+ font-weight: 700;
+ color: #4f81bc;
+}
+.defensa{
+    font-weight: 700;
+    color: #c0504e;
+}
+.hp{
+    font-weight: 700;
+    color: #b9d08a;
+}
+.velocidad{
+    font-weight: 700;
+    color: #23bfaa;
+}
+.ataqueespecial{
+    font-weight: 700;
+    color: #8064a1;
+}
+.defensaespecial{
+    font-weight: 700;
+    color: #4aacc5;
+}
